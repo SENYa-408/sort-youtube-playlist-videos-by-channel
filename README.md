@@ -8,4 +8,4 @@ Script to sort videos in youtube playlists by channel
  - Paste copied code **(Ctrl+V)** and press **ENTER**
  - Scroll to the bottom of the video list
  - Type in the console `sortPlaylist(CHANNEL NAME)`  
- Example: `srotPlaylist('Kalle Hallden')`
+ Example: `sortPlaylist('Kalle Hallden')`
